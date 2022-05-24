@@ -1,4 +1,2 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+# Auto delect text files and perform LF normalization
+* text=auto
